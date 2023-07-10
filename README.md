@@ -65,7 +65,6 @@ The table below shows the summary of the results
 
 **Feature Encoding:** Converting the text data into numerical vectors using the SentenceTransformer model was computationally demanding and time-consuming, requiring efficient resource management.
 
-**Model Selection and Fine-tuning:** Choosing the right machine learning models and optimizing their hyperparameters was a crucial decision. Balancing model complexity and generalization while avoiding overfitting required careful consideration.
 
 ## Conclusion
 In this project, we analyzed a dataset of disaster tweets and trained models to predict if a tweet is about a real disaster. Through exploratory data analysis, preprocessing, and feature encoding, we achieved validation accuracies of 82.68% (SVC), 79.92% (LightGBM), and 81.10% (Random Forest). The SVC model performed the best, providing valuable insights for classifying disaster-related tweets.
