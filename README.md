@@ -34,7 +34,7 @@ location: The location from where the tweet was sent (may be empty).
 ## Exploratory Data Analysis
 The distribution of the target variable is plotted using a countplot, showing the distribution of disaster and non-disaster tweets.
 
-![Distribution of Target Variables](/image.png "Distribution of Disaster Vs Non-disaster Tweet.")
+![Distribution of Target Variables](/images/image.png "Distribution of Disaster Vs Non-disaster Tweet.")
 
 <br>
 A word cloud is also generated to visualize the most common words in disaster-related tweets.
