@@ -1,9 +1,17 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/sRMOJrsa)
+![image](https://github.com/Dept-of-Comp-Sci-University-of-Ghana/team-task-1---natural-language-with-disaster-tweets-cmsm_gp-11/assets/71809927/763da44c-df44-4319-9a21-e80dd2bc8e73)[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/sRMOJrsa)
 
 
 # Natural Language Processing with Disaster Tweets 
 
 ## Group 11 Report
+
+<hr>
+
+### Group Members
+Ebenezer Acquah - 10885076
+Eugene Cobbah – 10866103
+
+<hr>
 
 ## Dataset
 The dataset includes three files:
