@@ -7,7 +7,6 @@
 
 <hr>
 
-
 ###  Group Members
 
 Ebenezer Acquah - 10885076 <br>
@@ -35,13 +34,13 @@ location: The location from where the tweet was sent (may be empty).
 ## Exploratory Data Analysis
 The distribution of the target variable is plotted using a countplot, showing the distribution of disaster and non-disaster tweets.
 
-![Distribution of Target Variables](/team-task-1---natural-language-with-disaster-tweets-cmsm_gp-11/images/image.png "Distribution of Disaster Vs Non-disaster Tweet.")
+![Distribution of Target Variables](/images/image.png "Distribution of Disaster Vs Non-disaster Tweet.")
 
 <br>
 A word cloud is also generated to visualize the most common words in disaster-related tweets.
 
 
-![WordCloud](/team-task-1---natural-language-with-disaster-tweets-cmsm_gp-11/images/image-1.png "Word Cloud - Disaster Tweets")
+![WordCloud](/images/image-1.png "Word Cloud - Disaster Tweets")
 
 ## Data Preprocessing
 The text data is cleaned by removing URLs, usernames, hashtags, and non-alphanumeric characters. The text is converted to lowercase, stripped of leading and trailing spaces, and stopwords are removed.
