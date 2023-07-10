@@ -9,18 +9,18 @@
 The dataset includes three files:
 train.csv: This file contains the training set data. It is used to train a machine learning model to predict whether a tweet is about a real disaster or not. The columns in this file include:
 
-<strong>id:</strong> A unique identifier for each tweet.
-<strong>text:</strong> The text of the tweet.
-location: The location from where the tweet was sent (may be empty).
-<strong>keyword:</strong> A particular keyword from the tweet (may be empty).
-<strong>target:</strong> Indicates whether the tweet is about a real disaster (1) or not (0).
+<strong>id:</strong> A unique identifier for each tweet. <br>
+<strong>text:</strong> The text of the tweet. <br>
+<strong>location:</strong> The location from where the tweet was sent (may be empty). <br>
+<strong>keyword:</strong> A particular keyword from the tweet (may be empty). <br>
+<strong>target:</strong> Indicates whether the tweet is about a real disaster (1) or not (0). <br>
 
-<strong>test.csv:</strong> This file contains the test set data. It is used to evaluate the performance of the trained model on unseen data. The columns in this file are the same as in train.csv, except for the "target" column, which is not present since it needs to be predicted.
+<strong>test.csv:</strong> This file contains the test set data. It is used to evaluate the performance of the trained model on unseen data. The columns in this file are the same as in train.csv, except for the "target" column, which is not present since it needs to be predicted. <br>
 
 <strong>sample_submission.csv:</strong> This file provides a sample submission format. It is used as a template to submit predictions for the test set. The columns in this file include:
 
-<strong>id:</strong> A unique identifier for each tweet.
-<strong>target:</strong> The predicted target value (0 or 1) for whether the tweet is about a real disaster.
+<strong>id:</strong> A unique identifier for each tweet. <br>
+<strong>target:</strong> The predicted target value (0 or 1) for whether the tweet is about a real disaster. <br>
 
 ## Exploratory Data Analysis
 The distribution of the target variable is plotted using a countplot, showing the distribution of disaster and non-disaster tweets.
