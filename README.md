@@ -18,17 +18,17 @@ Eugene Cobbah – 10866103
 The dataset includes three files:
 train.csv: This file contains the training set data. It is used to train a machine learning model to predict whether a tweet is about a real disaster or not. The columns in this file include:
 
-**id:** A unique identifier for each tweet.
-**text:** The text of the tweet.
-location: The location from where the tweet was sent (may be empty).
-**keyword:** A particular keyword from the tweet (may be empty).
-**target:** Indicates whether the tweet is about a real disaster (1) or not (0).
+**id:** A unique identifier for each tweet. <br>
+**text:** The text of the tweet. <br>
+**location:** The location from where the tweet was sent (may be empty). <br>
+**keyword:** A particular keyword from the tweet (may be empty). <br>
+**target:** Indicates whether the tweet is about a real disaster (1) or not (0). <br>
 
-**test.csv:** This file contains the test set data. It is used to evaluate the performance of the trained model on unseen data. The columns in this file are the same as in train.csv, except for the "target" column, which is not present since it needs to be predicted.
+**test.csv:** This file contains the test set data. It is used to evaluate the performance of the trained model on unseen data. The columns in this file are the same as in train.csv, except for the "target" column, which is not present since it needs to be predicted. <br>
 
 **sample_submission.csv:** This file provides a sample submission format. It is used as a template to submit predictions for the test set. The columns in this file include:
 
-**id:** A unique identifier for each tweet.
+**id:** A unique identifier for each tweet. <br>
 **target:** The predicted target value (0 or 1) for whether the tweet is about a real disaster.
 
 ## Exploratory Data Analysis
