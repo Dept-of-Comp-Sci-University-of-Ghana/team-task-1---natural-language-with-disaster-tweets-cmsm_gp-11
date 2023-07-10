@@ -9,7 +9,6 @@
 
 ### Group Members
 Ebenezer Acquah - 10885076 <br>
-Eugene Cobbah – 10866103
 
 <hr>
 
